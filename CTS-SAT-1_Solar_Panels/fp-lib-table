@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CTS-SAT-1_Solar_Panels_Symbol_Library")(type "KiCad")(uri "${KIPRJMOD}/lib/CTS-SAT-1_Solar_Panels_Symbol_Library.pretty")(options "")(descr ""))
+)
